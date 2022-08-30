@@ -1,2 +1,1 @@
-# ShubhamKumar_Phase6_Akash_Backend
-Springboot Backend for ICIN Bank Project
+ICIN Bank backend function Capstone Project 
